@@ -1,7 +1,7 @@
 {
-  "name": "sprint-4-pb-aws-fatec",
+  "name": "my-api",
   "version": "1.0.0",
-  "description": "Avaliação da quarta sprint do programa de bolsas Compass UOL para formação em machine learning para AWS.",
+  "description": "api-consume",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
